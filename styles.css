@@ -1,0 +1,99 @@
+body{
+   font-family: 'Merriweather', serif;
+   margin: 0;
+   text-align:center;
+}
+
+.top-container{
+   background-color:aquamarine;
+   position:relative;
+   padding-top: 100px;
+   
+}
+
+h1{
+   color: #66bfbf;
+   font-size:5.625rem;
+   font-family: 'Sacramento', cursive;
+   margin: 50px auto 1px;
+}
+
+h2{
+   color: #66bfbf;
+   font-family: 'Montserrat', sans-serif;
+   font-size: 2.5rem;
+   font-weight: normal;
+   margin: 0 auto 10px auto;
+}
+
+h3{
+   color: #11999E;
+   font-family: 'Montserrat', sans-serif;
+}
+
+a{
+   color: #11999E;
+}
+
+.top-cloud{
+   
+   position:absolute;
+   right: 300px;
+   top: 50px;
+
+}
+
+.bottom-cloud{
+   position: absolute;
+   bottom: 300px;
+   left:300px;
+}
+
+.skill-row{
+   width: 50%;
+   margin: 100px auto 100px;
+   text-align: left;
+   line-height: 2;
+}
+
+.computer{
+   float: left;
+   width: 25%;
+   margin-right: 25px;
+}
+
+.chillies{
+   float: right;
+   width: 25%;
+   margin-left: 25px;
+   margin-right: 15px;
+}
+
+.skill-heading{
+   text-decoration: underline;
+}
+
+hr{
+   width: 10%;
+   border-top: 8px dotted #98a5a5;
+}
+
+.btn{
+   width: 100px;
+   height: 30px;
+   background-color: #11999E;
+   color: white;
+   padding: 10px;
+   border-radius: 5px;
+   text-decoration: none;
+}
+
+.btn:hover{
+   text-decoration: underline;
+}
+
+.bottom-container{
+   margin-top: 40px;
+   background-color: aqua;
+   color: white; 
+}
